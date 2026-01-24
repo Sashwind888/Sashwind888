@@ -1,10 +1,9 @@
-版权与许可信息
-作者 (Author)： Sashwind / Sashwind888 / 飒影
+# 你好，我是 Sashwind 喵~
 
-版权 (Copyright)： © 2025 Sashwind888-Sashwind-飒影. All Rights Reserved.
+只是一个普普通通的编程爱好者awa
 
-邮箱 (Email)：
+正在不断努力！
 
-3567576816@qq.com
-ghj20200403@163.com
-sashwind@outlook.com
+[![sashwind GitHub stats](https://github-readme-stats.vercel.app/api?username=sashwind888)](https://github.com/anuraghazra/github-readme-stats)
+
+![sashwind](https://github-readme-stats.vercel.app/api/top-langs/?username=sashwind888&layout=donut)
